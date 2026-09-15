@@ -1,0 +1,7 @@
+interface:
+  display_name: "Academic PPT Pipeline"
+  short_description: "Build sourced academic decks through three confirmed stages"
+  default_prompt: "Use $academic-ppt-pipeline to turn my literature, guideline, or product materials into a confirmed outline, slide visuals, and an editable academic PPTX."
+policy:
+  allow_implicit_invocation: true
+
